@@ -2,4 +2,4 @@
 
 ## Результат вы можетепосмотреть тут:
 
-[Моя первая работа на HTML & CSS] (HTTPS;//vyacheslavtvyou.github.io/Rezume/)
+[Моя первая работа на HTML & CSS](HTTPS;//vyacheslavtvyou.github.io/Rezume/)
